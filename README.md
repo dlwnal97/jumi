@@ -1,3 +1,2 @@
-# jumi
- Business analytics
+# jumi Lee
 
